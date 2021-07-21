@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/aditi-123-ai/Disney-clone.git/static/css/main.272da141.chunk.css",
+    "main.js": "/aditi-123-ai/Disney-clone.git/static/js/main.f7617624.chunk.js",
+    "main.js.map": "/aditi-123-ai/Disney-clone.git/static/js/main.f7617624.chunk.js.map",
+    "runtime-main.js": "/aditi-123-ai/Disney-clone.git/static/js/runtime-main.552cbbf2.js",
+    "runtime-main.js.map": "/aditi-123-ai/Disney-clone.git/static/js/runtime-main.552cbbf2.js.map",
+    "static/css/2.f9263cef.chunk.css": "/aditi-123-ai/Disney-clone.git/static/css/2.f9263cef.chunk.css",
+    "static/js/2.90d4bdc8.chunk.js": "/aditi-123-ai/Disney-clone.git/static/js/2.90d4bdc8.chunk.js",
+    "static/js/2.90d4bdc8.chunk.js.map": "/aditi-123-ai/Disney-clone.git/static/js/2.90d4bdc8.chunk.js.map",
+    "index.html": "/aditi-123-ai/Disney-clone.git/index.html",
+    "static/css/2.f9263cef.chunk.css.map": "/aditi-123-ai/Disney-clone.git/static/css/2.f9263cef.chunk.css.map",
+    "static/css/main.272da141.chunk.css.map": "/aditi-123-ai/Disney-clone.git/static/css/main.272da141.chunk.css.map",
+    "static/js/2.90d4bdc8.chunk.js.LICENSE.txt": "/aditi-123-ai/Disney-clone.git/static/js/2.90d4bdc8.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/aditi-123-ai/Disney-clone.git/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.552cbbf2.js",
+    "static/css/2.f9263cef.chunk.css",
+    "static/js/2.90d4bdc8.chunk.js",
+    "static/css/main.272da141.chunk.css",
+    "static/js/main.f7617624.chunk.js"
+  ]
+}
